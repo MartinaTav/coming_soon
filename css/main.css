@@ -23,6 +23,7 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     height: 100%;
+    overflow: hidden;
 }
 
 .landing-inner {
@@ -37,6 +38,7 @@ body, html {
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow: hidden;
 }
 
 img {

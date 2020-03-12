@@ -137,6 +137,7 @@ p {
 @media (max-height: 500px) {
     .landing-inner {
         tpadding-top: 35px;
+        
     }
     img {
         width: 70px;
@@ -160,6 +161,7 @@ p {
 
     .countdown div {
         padding: 10px;
+        margin: 0 5px;
     }
 
     .countdown div:nth-child(4) {

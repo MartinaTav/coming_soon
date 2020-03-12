@@ -27,6 +27,7 @@ body, html {
 }
 
 .landing-inner {
+    padding: 0;
     position: absolute;
     top: 0;
     left: 0;
@@ -131,9 +132,9 @@ p {
 
 } 
 
-@media (max-height: 600px) {
+@media (max-height: 500px) {
     .landing-inner {
-        padding-top: 35px;
+        tpadding-top: 35px;
     }
     img {
         width: 70px;

@@ -116,12 +116,14 @@ p {
 
 
      .countdown {
-         font-size: 3rem;
+         twidth: 100%;
+         font-size: 2rem;
          flex-wrap: nowrap;
          
      }
      .countdown div {
-         padding: 20px;
+         padding: 1rem;
+         margin: 1rem;
      }
 
      .countdown div:nth-child(4) {
